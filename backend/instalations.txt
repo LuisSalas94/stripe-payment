@@ -1,0 +1,18 @@
+Backend
+- npm init --yes
+- npm i express nodemon cors
+- index.js
+- npx nodemon index.js (to run the server)
+- products.js
+- upload photos in cloudinary
+
+------------------ Authentication ------------------
+- Create new project in MongoDB
+- Install MongoDB 
+- npm i mongoose dotenv
+- npm i jsonwebtoken bcrypt joi 
+
+
+------------------ Payment ------------------
+- npm install stripe --save
+- https://stripe.com/docs/payments/accept-a-payment
